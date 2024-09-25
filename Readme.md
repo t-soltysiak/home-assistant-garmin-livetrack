@@ -5,7 +5,7 @@ FORKED FROM: https://github.com/Novex/garmin-livetrack-obs
 Automatically search for the Garmin Livetrack email in your inbox and output fields from the API to JSON http response e. g. to use in Home Assistant sensors.
 
 
-![screenshot](https://github.com/t-soltysiak/garmin-livetrack-to-json/assets/68973012/a7cfd6b5-2ceb-4e87-9558-a58f96362739)
+![screenshot](https://github.com/user-attachments/assets/9207fc44-9115-4b52-bec5-0f5f9599e154)
 
 
 
